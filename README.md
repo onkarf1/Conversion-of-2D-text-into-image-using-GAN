@@ -12,7 +12,7 @@ Credits: [1]
 
 We used the hdf5 format of these datasets which can be found here for [birds_hdf5](https://drive.google.com/file/d/1mNhn6MYpBb-JwE86GC1kk0VJsYj-Pn5j/view) and here for [flowers_hdf5](https://drive.google.com/file/d/1EgnaTrlHGaqK5CCgHKLclZMT_AMSTyh8/view). These hdf5 datasets were converted from [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html) and [Oxford Flowers](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) datasets.
 
-We used the [text embeddings](https://github.com/reedscot/icml2016) provided by the paper([1]) authors. 
+
 
 
 ## Requirements
