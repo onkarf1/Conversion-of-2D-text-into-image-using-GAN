@@ -1,4 +1,4 @@
-# Text to Image Synthesis Synthesis using Generative Adversarial Networks
+# 2D Text to Image Synthesis Synthesis using Generative Adversarial Networks
 
 ## Intoduction
 
