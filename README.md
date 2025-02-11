@@ -31,7 +31,7 @@ $ pip install -r requirements.txt<br/>
 ## Training
 
 **To use this code for training you can:** <br/>
-$ git clone https://github.com/Rakshith-Manandi/text-to-image-using-GAN.git <br/>
+$ git clone https://github.com/onkarf1/Conversion-of-2D-text-into-image-using-GAN.git <br/>
 $ cd ./text-to-image-using-GAN <br/>
 $ python -u runtime.py <br/>
 
@@ -47,7 +47,7 @@ $ python -u runtime.py <br/>
 
 **To get a glimpse of the results generated, you can:** <br/>
 First make sure you have installed all the dependencies, as mentioned in Requirements section. Also, make sure you have GPU access. </br>
-$ git clone https://github.com/Rakshith-Manandi/text-to-image-using-GAN.git <br/>
+$ git clone https://github.com/onkarf1/Conversion-of-2D-text-into-image-using-GAN.git <br/>
 $ cd ./text-to-image-using-GAN <br/>
 $ jupyter notebook GAN_demo.ipynb  (i.e. open the 'GAN_demo.ipynb' file)<br/>
 
@@ -60,4 +60,4 @@ $ jupyter notebook GAN_demo.ipynb  (i.e. open the 'GAN_demo.ipynb' file)<br/>
 
 ## References
 [1]  Generative Adversarial Text-to-Image Synthesis https://arxiv.org/abs/1605.05396 </br>
-[2] https://github.com/reedscot/icml2016 (the authors version)
+
